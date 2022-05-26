@@ -12,6 +12,6 @@ mapa é possivel ver o nome do restaurante e o gasto e uma tabela mostrando gast
 - **Plotly**: usado para constrir o grafico.
 - **Folium**:  usado para plotar o grafico.
 - **Re**: biblioteca para ultilizar o regex.
-- **streamlit_folium**:ultilizada para fazer o para aparecer dentro da pagina do streamlit
+- **streamlit_folium**:ultilizada para fazer o para aparecer dentro da pagina do streamlit.
 - **MarkerCluster**: Ultilizado para fazer fazer os pontos do mapa aparecerem.
 
